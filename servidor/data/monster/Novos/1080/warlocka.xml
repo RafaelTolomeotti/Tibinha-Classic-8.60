@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Warlocka" nameDescription="a warlocka" race="blood" experience="12200" speed="285" manacost="0">
+  <health now="9500" max="9500"/>
+  <look type="138" head="29" body="74" legs="129" feet="128" addons="1" corpse="6081"/>
+  <targetchange interval="5000" chance="30"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="4"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="1000"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="50" attack="150"/>
+    <attack name="ice" interval="1000" chance="12" range="7" target="1" min="-220" attack="-470">
+      <attribute key="shootEffect" value="ice"/>
+	  <attribute key="areaEffect" value="iceattack"/>
+    </attack>
+	<attack name="energy" interval="2000" chance="20" range="7" target="1" min="-290" max="-570">
+	  <attribute key="shootEffect" value="energyball"/>
+	  <attribute key="areaEffect" value="energy"/>
+	  </attack>
+    <attack name="manadrain" interval="2000" chance="24" range="7" min="-135" max="-315">
+	<attribute key="shootEffect" value="ice"/>
+	</attack>
+    <attack name="speed" interval="2000" chance="18" range="7" speedchange="-750" duration="40000">
+	  <attribute key="shootEffect" value="smallice"/>
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </attack>
+    <attack name="fire" interval="2000" chance="28" range="7" radius="3" target="1" min="-180" max="-480">
+      <attribute key="shootEffect" value="burstarrow"/>
+      <attribute key="areaEffect" value="firearea"/>
+    </attack>
+    <attack name="firefield" interval="2000" chance="20" range="7" radius="2" target="1">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+    <attack name="energy" interval="3000" chance="18" length="8" spread="0" min="-250" max="-330">
+      <attribute key="areaEffect" value="bigclouds"/>
+    </attack>
+
+  </attacks>
+  <defenses armor="20" defense="20">
+    <defense name="healing" interval="1000" chance="25" min="60" max="100">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="invisible" interval="22000" chance="4" duration="4000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+
+  </defenses>
+  <elements>
+  	<element holyPercent="-10"/>
+	<element deathPercent="-70"/>
+	<element earthPercent="90"/>
+  </elements>
+  <immunities>
+    <immunity physical="1"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity ice="1"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="1">
+    <summon name="stone golem" interval="1000" chance="10" />
+  </summons>
+  <voices interval="5000" chance="10">
+    <voice sentence="Chupa que e  de uvaaaa"/>
+    <voice sentence="Seu pinto pequeno safado."/>
+    <voice sentence="Vai se fude vagabundo morree!"/>
+  </voices>
+	<loot>
+		<item id="2148" countmax="80" chance="36500"/><!-- gold coin -->
+		<item id="2679" countmax="5" chance="55000"/><!-- cherry -->
+		<item id="2689" chance="2200"/><!-- bread -->
+		<item id="2411" chance="3000"/><!-- poison dagger -->
+		<item id="2436" chance="5000"/><!-- skull staff -->
+		<item id="7591" chance="12500"/><!-- great health potion -->
+		<item id="7590" chance="10000"/><!-- great mana potion -->		
+		<item id="7368" countmax="4" chance="1200"/><!-- assassin star -->
+		<item id="2792" chance="5000"/><!-- dark mushroom -->
+		<item id="2178" chance="2500"/><!-- mind stone -->
+		<item id="2167" chance="3000"/><!-- energy ring -->
+		<item id="2656" chance="3000"/><!-- blue robe -->
+		<item id="2047" chance="15000"/><!-- candlestick -->
+		<item id="2146" chance="1400"/><!-- small sapphire -->
+		<item id="2151" chance="5500"/><!-- talon -->
+		<item id="7898" chance="450"/><!-- lightning robe -->
+		<item id="2600" chance="1000"/><!-- inkwell -->
+		<item id="2124" chance="700"/><!-- crystal ring -->
+		<item id="12410" chance="900"/><!-- luminous orb -->
+		<item id="2123" chance="650"/><!-- ring of the sky -->
+		<item id="2197" chance="750"/><!-- stone skin amulet -->
+		<item id="1986" chance="800"/><!-- red tome -->
+		<item id="2466" chance="600"/><!-- golden armor -->
+		<item id="2114" chance="100"/><!-- piggy bank -->
+	</loot>
+</monster>

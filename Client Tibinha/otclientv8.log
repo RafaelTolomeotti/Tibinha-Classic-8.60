@@ -1,0 +1,786 @@
+GPU GeForce GTX 465/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 388.13
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/CPU/Desktop/otclientv8-master/'
+== application started at Sep 22 2022 21:46:59
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU ANGLE (NVIDIA GeForce GTX 465 Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/CPU/Desktop/otclientv8-master/'
+== application started at Sep 22 2022 21:47:16
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Missing file: 860/Tibia.dat
+Missing file: 860/Tibia.spr
+
+You should open data/things and create directory 860.
+In this directory (data/things/860) you should put missing
+files (Tibia.dat and Tibia.spr/Tibia.cwm) from correct Tibia version.
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: sv.king-baiak.com.br:7171
+Exiting application..
+ERROR: unable to open file for writing '/settings/questlog.json': not found
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU GeForce GTX 465/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 388.13
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/CPU/Desktop/otclientv8-master/'
+== application started at Sep 22 2022 21:48:05
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: sv.king-baiak.com.br:7171
+Login to 102.165.46.217:7172
+Minimap couldn't be loaded, file missing?
+Exiting application..
+GPU GeForce GTX 465/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 388.13
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/CPU/Desktop/King-OTC/'
+== application started at Oct 30 2022 13:54:06
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/King-OTC/'
+== application started at Apr 17 2023 17:45:20
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 127.0.0.1:7171
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+Login to 4.228.66.191:7172
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/King-OTC/'
+== application started at Apr 17 2023 19:49:07
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+Login to 4.228.66.191:7172
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: attempt to destroy widget 'widget1316' two times
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/King-OTC/'
+== application started at Apr 18 2023 00:42:57
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: 4.228.66.191:7171
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/King-OTC/'
+== application started at Apr 18 2023 01:01:46
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.servegame.com:7171
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/King-OTC/'
+== application started at Apr 18 2023 18:00:41
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.servegame.com:7171
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/King-OTC/'
+== application started at Apr 18 2023 18:54:13
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.servegame.com:7171
+Login to 4.228.66.191:7172
+Login to 4.228.66.191:7172
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client Tibinha/'
+== application started at Apr 18 2023 18:55:16
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.servegame.com:7171
+Login to 4.228.66.191:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client Tibinha/'
+== application started at Apr 18 2023 19:33:10
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client Tibinha/'
+== application started at Apr 18 2023 19:36:28
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client Tibinha/'
+== application started at Apr 18 2023 19:36:35
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.servegame.com:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (NVIDIA Corporation)
+OpenGL 4.6.0 NVIDIA 528.49
+[Atlas] Texture size is: 4096x4096 (max: 32768x32768)
+Found work dir at 'C:/Users/Rafa_/Desktop/Client Tibinha/'
+== application started at Apr 18 2023 19:36:43
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 09:56:48
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.online:7171
+Login to 45.229.22.155:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:26:43
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+ERROR: Failed to load script 'init.lua': LUA ERROR: /init.lua:14: '}' expected (to close '{' at line 7) near 'news'
+stack traceback:
+	[builtin#146]: at 0x008d8b80
+FATAL ERROR: Unable to run script init.lua!
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:29:27
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.com:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:29:52
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.com:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:30:22
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.com:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:30:37
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: tibinha.online:7171
+Login to 45.229.22.155:7172
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:31:21
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.online:7171
+Login to 45.229.22.155:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:32:27
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.online:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:33:20
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:35:19
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Unable to find module 'game_textedit' required by 'game_interface'
+FATAL ERROR: Unable to load module 'game_bot': /modules/game_bot/bot.lua:42: attempt to call field 'getLeftPanel' (a nil value)
+stack traceback:
+	[C]: in function 'getLeftPanel'
+	/modules/game_bot/bot.lua:42: in function 'init'
+	/modules/game_bot/bot.otmod:7:[@onLoad]:1: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:72: in function 'loadModules'
+	/init.lua:93: in main chunk
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:35:29
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+FATAL ERROR: Unable to load module 'client_feedback': dependency 'game_interface' was not found
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:36:31
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.online:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:37:53
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 10:38:26
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 11:19:35
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.online:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+ERROR: Failed to read dat '/things/860/Tibia.dat': corrupt data (id: 439, category: 0, count: 255, lastAttr: 1)'
+Connecting to: www.tibinha.online:7171
+Login to 45.229.22.155:7172
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 11:20:24
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Connecting to: www.tibinha.online:7171
+Login to 45.229.22.155:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+WARNING: widget 'widget1316' was not explicitly destroyed
+Exiting application..
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 11:23:22
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 11:23:37
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 12:31:51
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Connecting to: www.tibinha.online:7171
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU Intel(R) Iris(R) Xe Graphics (Intel)
+OpenGL 4.6.0 - Build 27.20.100.9365
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/rafae/OneDrive/Área de Trabalho/Client Tibinha/'
+== application started at May 08 2023 13:43:02
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+Connecting to: www.tibinha.online:7171
+Login to 45.229.22.155:7172
+WARNING: HTTP error for http://otclient.ovh/api/status.php: timeout
+Exiting application..
+WARNING: widget 'widget1316' was not explicitly destroyed
+GPU ANGLE (NVIDIA GeForce RTX 3060 Ti Direct3D11 vs_5_0 ps_5_0) (Google Inc.)
+OpenGL OpenGL ES 3.0.0 (ANGLE 2.1.0.54a3d7cbcadb)
+[Atlas] Texture size is: 4096x4096 (max: 16384x16384)
+Found work dir at 'C:/Users/Rafa_/Desktop/Tibinha Classic 8.60/Client Tibinha/'
+== application started at Jun 05 2024 12:35:42
+OTCv8 3.1 rev 232 (dev) made by otclient.net built on Jul 11 2022 for arch x86
+WARNING: HTTP error for http://otclient.ovh/api/status.php: Invalid http status code (403)
+Connecting to: www.tibinha.online:7171
+WARNING: HTTP error for http://otclient.ovh/api/status.php: Invalid http status code (403)
+Exiting application..
+WARNING: widget 'widget1317' was not explicitly destroyed

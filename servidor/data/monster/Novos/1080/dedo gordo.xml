@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dedo Gordo" nameDescription="a dedo gordo" race="blood" experience="26500" speed="530" manacost="0">
+	<health now="22800" max="22800"/>
+	<look type="230" corpse="6312"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="300"/>
+	<flag skull="black"/>
+	</flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="210" attack="250"/>
+    <attack name="manadrain" interval="2000" chance="13" range="7" min="380" max="-920"/>
+    <attack name="fire" interval="2000" chance="30" range="7" radius="7" target="1" min="-450" max="-850">
+		<attribute key="shootEffect" value="fire"/>
+		<attribute key="areaEffect" value="firearea"/>
+	</attack>
+    <attack name="lifedrain" interval="1000" chance="12" length="8" spread="0" min="-300" max="-467">
+		<attribute key="areaEffect" value="purpleenergy"/>
+	</attack>
+	<attack name="energy" interval="3000" chance="10" range="1" target="1" min="-210" max="-300">
+		<attribute key="areaEffect" value="purpleenergy"/>
+	</attack>
+  </attacks>
+  <defenses armor="55" defense="55">
+    <defense name="healing" interval="2000" chance="15" min="630" max="1240">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+	<defense name="speed" interval="4000" chance="8" speedchange="290" duration="5000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+	<elements>
+		<element earthPercent="100"/>
+		<element energyPercent="20"/>
+		<element physicalPercent="10"/>
+		<element firePercent="-5"/>
+		<element icePercent="-5"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+ <loot>
+  <item id="2160" chance="50000"/><!-- platinum coin -->
+  <item id="2795" countmax="5" chance="20000"/><!-- fire mushroom -->
+  <item id="2432" chance="3703"/><!-- fire axe -->
+  <item id="2393" chance="2000"/><!-- giant sword -->
+  <item id="2418" chance="1428"/><!-- golden sickle -->
+  <item id="2165" chance="1333"/><!-- stealth ring -->
+  <item id="2462" chance="1204"/><!-- devil helmet -->
+  <item id="1982" chance="1190"/><!-- purple tome -->
+  <item id="2179" chance="1010"/><!-- gold ring -->
+  <item id="2171" chance="813"/><!-- platinum amulet -->
+  <item id="2396" chance="666"/><!-- ice rapier -->
+  <item id="2520" chance="1049"/><!-- demon shield -->
+  <item id="2214" chance="473"/><!-- ring of healing -->
+  <item id="5954" chance="467"/><!-- demon horn -->
+  <item id="2470" chance="613"/><!-- golden legs -->
+  <item id="2514" chance="889"/><!-- mastermind shield -->
+  <item id="2164" chance="170"/><!-- might ring -->
+  <item id="2472" chance="650"/><!-- magic plate armor -->
+  <item id="7393" chance="78"/><!-- demon trophy -->
+  <item id="7382" chance="60"/><!-- demonrage sword -->
+ </loot>
+</monster>

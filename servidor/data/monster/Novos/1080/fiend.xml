@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Fiend" nameDescription="a random fiend" race="blood" experience="90000" speed="390" manacost="390">
+  <health now="199900" max="199950"/>
+<look type="129" head="36" body="83" legs="116" feet="78" corpse="6080"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+   <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="5"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="18"/>
+	<flag skull="red"/>
+  </flags>
+  <attacks>
+    <attack name="death" interval="1000" chance="50" range="7" min="-1320" max="-1950">
+      <attribute key="shootEffect" value="suddendeath"/>
+	  <attribute key="areaEffect" value="mortarea"/>
+    </attack>
+	<attack name="ice" interval="800" chance="50" range="7" min="-990" max="-1320">
+		<attribute key="shootEffect" value="smallice"/>
+		<attribute key="areaEffect" value="icetornado"/>
+		</attack>
+  </attacks>
+  <defenses armor="70" defense="73"/>
+  <immunities>
+    <immunity fire="1"/>
+    <immunity drown="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="100">
+    <voice sentence="Noob!"/>
+    <voice sentence="Noob 2x!"/>
+  </voices>
+  
+
+
+<summons maxSummons="8">
+    <summon name="Demon" interval="2000" chance="10000"/>
+	<summon name="Dragon Lord" interval="3000" chance="30000"/>
+  </summons>
+
+
+
+  <loot>
+    <item id="2148" countmax="20" chance1="100000" chancemax="0"/>
+    <item id="2465" chance="10000"/>
+    <item id="2461" chance="10000"/>
+    <item id="2649" chance="10000"/>
+    <item id="2671" countmax="2" chance1="20000" chancemax="0"/>
+    <item id="2160" countmax="10" chance1="50000" chancemax="0"/>
+    <item id="1987" chance="100000">
+      <inside>
+        <item id="2456" chance="6666"/>
+        <item id="2544" countmax="15" chance1="10000" chancemax="0"/>
+        <item id="2546" countmax="5" chance1="10000" chancemax="0"/>
+        <item id="2147" countmax="2" chance1="3333" chancemax="0"/>
+        <item id="2675" countmax="4" chance1="6666" chancemax="0"/>
+        <item id="2690" countmax="4" chance1="6666" chancemax="0"/>
+        <item id="2050" chance="20000"/>
+        <item id="8306" chance="500"/>
+        <item id="10135" chance="5000"/>
+        <item id="2201" chance="2500"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Libra" nameDescription="Libra of the Zodiac" race="blood" experience="28000" speed="350" manacost="0">
+    <health now="19000" max="19000"/>
+    <look type="355" corpse="12631"/>
+    <targetchange interval="60000" chance="100"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+        <flag summonable="0"/>
+        <flag attackable="1"/>
+        <flag hostile="1"/>
+        <flag illusionable="1"/>
+        <flag convinceable="0"/>
+        <flag pushable="0"/>
+        <flag canpushitems="1"/>
+        <flag canpushcreatures="1"/>
+        <flag targetdistance="3"/>
+        <flag staticattack="90"/>
+        <flag runonhealth="500"/>
+    </flags>
+    <script>
+        <event name="Libra_Events"/>
+    </script>
+    <attacks>
+        <attack name="melee" interval="2000" skill="70" attack="190"/>
+        <attack name="ice" interval="2250" chance="45" range="7" radius="3" target="1" min="-200" max="-1600">
+            <attribute key="shootEffect" value="ice"/>
+            <attribute key="areaEffect" value="iceattack"/>
+        </attack>
+        <attack name="earth" interval="1250" chance="25" range="7" radius="3" target="1" min="-200" max="-1900">
+            <attribute key="shootEffect" value="earth"/>
+            <attribute key="areaEffect" value="smallplants"/>
+        </attack>
+        <attack name="fire" interval="750" chance="8" range="7" radius="3" target="1" min="-500" max="-1700">
+            <attribute key="shootEffect" value="fire"/>
+            <attribute key="areaEffect" value="fireattack"/>
+        </attack>
+        <attack name="energy" interval="1750" chance="35" range="7" radius="3" target="1" min="-300" max="-1850">
+            <attribute key="shootEffect" value="energy"/>
+            <attribute key="areaEffect" value="energyarea"/>
+        </attack>
+        <attack name="holy" interval="5000" chance="50" radius="5" min="-500" max="-1000">
+            <attribute key="areaEffect" value="holydamage"/>
+        </attack>
+        <attack name="death" interval="5000" chance="50" radius="5" min="-500" max="-1000">
+            <attribute key="areaEffect" value="mortarea"/>
+        </attack>
+    </attacks>
+    <defenses armor="60" defense="60">
+        <defense name="invisible" interval="60000" chance="100" duration="5000">
+        </defense>
+    </defenses>
+    <elements>
+    </elements>
+    <immunities>
+        <immunity paralyze="1"/>
+        <immunity invisible="1"/>
+    </immunities>
+    <voices interval="5000" chance="10">
+        <voice sentence="This battle's balance will be shifted"/>
+        <voice sentence="The scales of life and death have made their decision on your life"/>
+        <voice sentence="I was created by Tibinha"/>
+    </voices>
+    <loot>
+        <item id="8881" chance="50000"/><!-- fireborn giant armor -->
+        <item id="8882" chance="50000"/><!-- earthborn titan armor -->
+        <item id="8883" chance="50000"/><!-- windborn colossus armor -->
+        <item id="8884" chance="50000"/><!-- oceanborn leviathan armor -->
+        <item id="8889" chance="50000"/><!-- skullcracker armor -->
+    </loot>
+</monster>

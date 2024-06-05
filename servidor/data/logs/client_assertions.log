@@ -1,0 +1,3034 @@
+----- 1/12/2016 11:41:43 - GOD Vovozona (192.168.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -2310 @ 2
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 170 109 109 180 180 180 109 109 030 109
+Last Packet: 170 000 000 000 000 012 000 071 079 068 032 086 111 118 111 122
+Player Position: [32096,32200,7]
+Player Name: GOD Vovozona (Timeria)
+Player Action: 049 055 055 046 051 053 046 050 055 046 052 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 170) (MainWindow = 23375496), reason:
+Communication.cpp 2798: exception occurred (Mode = 24) (Channel = 0), reason:
+Communication.cpp 2792: unknown talk mode (Mode = 24), reason:
+[bug0000649]
+Thu Dec 01 11:41:24 2016
+Debug Assertion 8.60 Communication.cpp 2792
+
+----- 28/2/2017 0:6:5 - Weslley Kiyo (127.0.0.1) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -2310 @ 2
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 015 144 120 180 162 107 102 109 102 109
+Last Packet: 180 019 007 000 047 105 032 118 105 097 108 120 005 058 011 160
+Player Position: [32375,32191,7]
+Player Name: Weslley Kiyo (Timeria)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 15) (MainWindow = 19955544), reason:
+Control.cpp 1325: unknown packet type during game (Type = 15)
+Mon Feb 27 23:52:29 2017
+Debug Assertion 8.60 Control.cpp 1325
+
+----- 28/2/2017 0:16:32 - Weslley Kiyo (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -2310 @ 2
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 000 120 120 120 121 121 100 011 010 031
+Last Packet: 010 146 160 000 016 050 000 000 011 170 170 170 170 213 213 213
+Player Position: [32368,32196,7]
+Player Name: Weslley Kiyo (Timeria)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 0) (MainWindow = 21480248), reason:
+Control.cpp 1325: unknown packet type during game (Type = 0)
+Tue Feb 28 00:15:24 2017
+Debug Assertion 8.60 Control.cpp 1325
+
+----- 8/5/2017 19:17:15 - Weslley Kiyo (192.168.0.1) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -2310 @ 2
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 106 180 030 104 109 101 109 101 109 104
+Last Packet: 180 019 011 000 047 109 032 098 111 103 032 102 114 111 103 106
+Player Position: [33188,32706,7]
+Player Name: Weslley Kiyo (Timeria)
+Player Action: 049 056 049 046 050 049 051 046 051 050 046 049 057 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 20348744), reason:
+Communication.cpp 1784: exception occurred (rx = 7) (ry = 6), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 1073784223), reason:
+Objects.cpp 604: exception occurred (Number = 412), reason:
+Container.h 226: index out of range (original i: 412, i: 411, min: 1, d: 367)
+Mon May 08 19:15:38 2017
+Debug Assertion 8.60 Container.h 226
+
+----- 10/3/2018 13:40:43 - Weslley Kiyo (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 170 160 112 160 114 162 162 170 170 162
+Last Packet: 162 000 000 114 000 000 160 133 002 133 002 064 066 015 000 208
+Player Position: [31978,32827,2]
+Player Name: Weslley Kiyo (Timeria)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 170) (MainWindow = 75399000), reason:
+Communication.cpp 2798: exception occurred (Mode = 0) (Channel = 0), reason:
+Communication.cpp 2792: unknown talk mode (Mode = 0), reason:
+[bug0000649]
+Sat Mar 10 13:40:09 2018
+Debug Assertion 8.60 Communication.cpp 2792
+
+----- 10/3/2018 13:41:46 - Weslley Kiyo (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 170 160 112 160 114 162 030 162 170 162
+Last Packet: 162 000 000 114 000 000 160 133 002 133 002 064 066 015 000 208
+Player Position: [31978,32827,2]
+Player Name: Weslley Kiyo (Timeria)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 170) (MainWindow = 74941280), reason:
+Communication.cpp 2798: exception occurred (Mode = 0) (Channel = 0), reason:
+Communication.cpp 2792: unknown talk mode (Mode = 0), reason:
+[bug0000649]
+Sat Mar 10 13:40:57 2018
+Debug Assertion 8.60 Communication.cpp 2792
+
+----- 15/3/2018 14:41:16 - Weslley Kiyo (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 109 162 103 109 104 109 180 162 102 109
+Last Packet: 109 151 126 107 125 010 001 152 126 107 125 010 102 013 255 101
+Player Position: [32408,32107,10]
+Player Name: Weslley Kiyo (Timeria)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 48725848), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no bank as first object [bug0000484], reason:
+ sx: 8 sy: 6 sz: 2
+ Position: 1
+ zx: 9 zy: 6 zz: 2
+ dx: 1 dy: 0 dz: 0
+ abs_sx: 32407 abs_sy: 32107 abs_sz: 10
+ abs_zx: 32408 abs_zy: 32107 abs_zz: 10
+ Start Cylinder (1):  (103,0) (99,268477870)
+ Start Cylinder (2):  (103,0) (99,268477870)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (3133,0)
+ Destination Cylinder (2):  (3133,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+ ID: 268477870 Name: Weslley Kiyo
+ RealX: 32408 RealY: 32107 RealZ: 10
+ DeltaX: 0 DeltaY: 0
+Thu Mar 15 14:39:08 2018
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 22/8/2018 17:52:49 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 109 106 106 106 108 108 106 108 108 131
+Last Packet: 109 014 001 225 007 008 001 014 001 226 007 008 000 000 000 000
+Player Position: [277,2012,9]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Aug 22 17:52:35 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 22/8/2018 17:53:17 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 109 107 109 109 108 109 109 106 105 106
+Last Packet: 109 031 001 216 007 008 001 031 001 215 007 008 000 000 000 000
+Player Position: [277,2011,9]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Aug 22 17:53:06 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 22/8/2018 17:53:43 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 109 109 106 108 108 109 170 170 131 131
+Last Packet: 109 029 001 221 007 009 001 029 001 222 007 009 109 025 001 213
+Player Position: [277,2009,9]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Aug 22 17:53:36 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 22/8/2018 17:55:5 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 143 143 143 143 131 140 131 140 109 106
+Last Packet: 109 031 001 219 007 008 001 031 001 220 007 008 140 093 043 000
+Player Position: [277,2009,9]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Aug 22 17:54:58 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 22/8/2018 18:20:7 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 143 143 170 143 131 140 131 140 131 140
+Last Packet: 140 129 043 000 064 100 131 022 001 215 007 009 013 140 104 043
+Player Position: [279,2010,9]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Aug 22 17:58:06 2018
+Debug Assertion 8.60 Network.cpp 921
+
+----- 22/8/2018 21:32:55 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 170 106 170 160 133 131 131 131 131 131
+Last Packet: 106 026 001 155 007 009 001 097 000 000 000 000 000 197 036 000
+Player Position: [281,1944,9]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 170) (MainWindow = 40533848), reason:
+Communication.cpp 2798: exception occurred (Mode = 0) (Channel = 0), reason:
+Communication.cpp 2792: unknown talk mode (Mode = 0), reason:
+[bug0000649]
+Wed Aug 22 21:32:27 2018
+Debug Assertion 8.60 Communication.cpp 2792
+
+----- 9/9/2018 22:5:17 - Pz Test (187.65.51.208) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 106 132 132 109 146 109 132 132 132 132
+Last Packet: 106 255 007 006 008 007 002 097 000 000 000 000 000 102 038 000
+Player Position: [2045,2054,7]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 41713496), reason:
+Communication.cpp 1784: exception occurred (rx = 10) (ry = 6), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 1073751654), reason:
+Objects.cpp 604: exception occurred (Number = 553), reason:
+Container.h 226: index out of range (original i: 553, i: 552, min: 1, d: 367)
+Sun Sep 09 22:02:36 2018
+Debug Assertion 8.60 Container.h 226
+
+----- 23/9/2018 21:45:12 - [ADM] KOLISAO (187.65.51.208) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 106 180 030 131 132 132 132 132 132 131
+Last Packet: 180 019 008 000 047 109 032 103 114 111 097 109 106 252 007 006
+Player Position: [2045,2054,7]
+Player Name: [ADM] KOLISAO (Yurots)
+Player Action: 049 056 055 046 054 053 046 053 049 046 050 048 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 41123672), reason:
+Communication.cpp 1784: exception occurred (rx = 7) (ry = 6), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 1073753481), reason:
+Objects.cpp 604: exception occurred (Number = 413), reason:
+Container.h 226: index out of range (original i: 413, i: 412, min: 1, d: 367)
+Sun Sep 23 21:44:15 2018
+Debug Assertion 8.60 Container.h 226
+
+----- 1/10/2018 2:54:46 - Ms Test (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 030 132 030 030 132 030 132 111 030 030
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [700,156,8]
+Player Name: Ms Test (Yurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2717F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Mon Oct 01 02:54:13 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/10/2018 2:16:14 - Kolisao (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 030 131 132 132 132 132 131 132 132 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2045,2050,7]
+Player Name: Kolisao (Yurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2797F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sun Oct 14 02:16:01 2018
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 4/11/2018 20:47:44 - ADM Kolisao (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 106 104 109 180 162 141 180 160 131 180
+Last Packet: 106 086 003 164 008 008 001 142 022 106 086 003 163 008 008 001
+Player Position: [854,2214,8]
+Player Name: ADM Kolisao (Yurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 42695864), reason:
+Communication.cpp 1784: exception occurred (rx = 8) (ry = 4), reason:
+Map.cpp 488: assertion failed (Position = 1), reason:
+Position<=Point.getObjectCount()
+Sun Nov 04 20:47:21 2018
+Debug Assertion 8.60 Map.cpp 488
+
+----- 4/11/2018 21:2:56 - ADM Kolisao (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 106 160 131 180 180 180 180 162 141 130
+Last Packet: 106 086 003 160 008 008 001 142 022 106 086 003 159 008 008 001
+Player Position: [856,2210,8]
+Player Name: ADM Kolisao (Yurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 106) (MainWindow = 41647960), reason:
+Communication.cpp 1784: exception occurred (rx = 6) (ry = 4), reason:
+Map.cpp 488: assertion failed (Position = 1), reason:
+Position<=Point.getObjectCount()
+Sun Nov 04 20:55:52 2018
+Debug Assertion 8.60 Map.cpp 488
+
+----- 13/11/2018 11:59:15 - ADM Kolisao (127.0.0.1) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 150 132 132 132 132 132 132 132 131 109
+Last Packet: 150 001 000 000 000 227 011 001 022 000 022 000 078 097 111 032
+Player Position: [2045,2050,7]
+Player Name: ADM Kolisao (Yurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 150) (MainWindow = 40468312), reason:
+Communication.cpp 2619: exception occurred, reason:
+Network.cpp 504: exception occurred, reason:
+Utils.cpp 550: assertion failed (Position = 19) (Size-Length = -5586), reason:
+Position<=Size-Length
+Tue Nov 13 11:58:38 2018
+Debug Assertion 8.60 Utils.cpp 550
+
+----- 12/2/2019 19:36:25 - Admin (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 131 030 162 161 131 030 131 163 132 180
+Last Packet: 131 087 003 159 008 008 036 000 000 000 000 000 000 000 000 000
+Player Position: [855,2207,8]
+Player Name: Admin (ClassicYurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Tue Feb 12 19:36:13 2019
+Debug Assertion 8.60 Network.cpp 921
+
+----- 15/2/2019 17:40:26 - Admin (127.0.0.1) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -4440 @ 3
+Video Card: NVIDIA GeForce GTX 750 TI
+Last Packet Types: 142 180 142 180 142 180 131 142 180 030
+Last Packet: 180 019 012 000 047 110 101 119 116 121 112 101 032 051 054 056
+Player Position: [279,2544,9]
+Player Name: Admin (ClassicYurots)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2738238 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 0), reason:
+MapWindow.cpp 1146: exception occurred (posx = 192) (posy = 128), reason:
+MapWindow.cpp 973: exception occurred, reason:
+MapWindow.cpp 957: exception occurred (Creature->OutfitType = 368) (Creature->CreatureID = 268452347), reason:
+Objects.cpp 494: exception occurred (Number = 368) (Flag = 24), reason:
+Container.h 226: index out of range (original i: 368, i: 367, min: 1, d: 367)
+Fri Feb 15 17:30:59 2019
+Debug Assertion 8.60 Container.h 226
+
+----- 11/10/2019 12:45:20 - Negokiller (201.57.79.154) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 925 @ 2.3
+Video Card: Mobile Intel (R) 4 SER
+Last Packet Types: 131 180 180 180 133 131 131 132 180 160
+Last Packet: 180 026 018 000 089 111 117 032 097 114 101 032 101 120 104 097
+Player Position: [2133,1347,7]
+Player Name: Flango (604)
+Player Action: 049 051 049 046 049 057 054 046 049 057 056 046 055 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 19EACA0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 26752624), reason:
+ContentWindows.cpp 695: exception occurred (Surface = 1), reason:
+SurfaceGL.cpp 1488: exception occurred, reason:
+SurfaceGL.cpp 1449: exception ocurred (ToSurface: 1 FromSurface: 5 Texture: 4 DebuggingProgress: 1), reason:
+SurfaceGL.cpp 647: exception ocurred (_Surface: 1 CurrentTargetSurface: 5 Texture: 4 Function: glCopyTexSubImage2D), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000000C)
+Wed Oct 09 18:49:10 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/10/2019 14:2:27 - Dubjoe (179.235.192.250) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -3337U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 131 134 161 161 132 180 131 140
+Last Packet: 134 222 004 000 064 000 131 069 003 087 000 006 004 000 000 000
+Player Position: [837,87,6]
+Player Name: Dubjoe (ClassicTibinha)
+Player Action: 051 053 046 049 057 056 046 054 050 046 050 049 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 8E7C20 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Fri Oct 11 14:01:47 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/10/2019 17:3:0 - Dovar (191.179.100.236) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -3337U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 131 134 131 134 131 134 131 134 140
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [801,87,6]
+Player Name: Dovar (ClassicTibinha)
+Player Action: 051 053 046 049 057 056 046 054 050 046 050 049 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2B7C38 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Fri Oct 11 17:02:36 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/10/2019 18:44:8 - Sky The Blind (143.255.220.110) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -6200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 160 160 133 132 180 131 140 140
+Last Packet: 134 220 004 000 064 000 131 051 003 087 000 006 003 140 221 004
+Player Position: [819,87,6]
+Player Name: Salluth (ClassicTibinha)
+Player Action: 051 053 046 049 057 056 046 054 050 046 050 049 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28C7EF0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Wed Oct 16 18:41:01 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/10/2019 22:9:18 - Salluth (186.211.104.187) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -6200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 160 160 131 134 131 134 140 132 140 160
+Last Packet: 160 051 004 051 004 224 249 002 000 194 113 073 006 186 000 096
+Player Position: [855,87,6]
+Player Name: Salluth (ClassicTibinha)
+Player Action: 051 053 046 049 057 056 046 054 050 046 050 049 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 26E7EF0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Thu Oct 24 22:07:55 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 17/11/2019 11:30:32 - Sabrezin (45.230.234.60) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: ATI Radeon HD AMD 6670
+Last Packet Types: 131 180 180 180 180 172 107 160 160 161
+Last Packet: 180 022 032 000 089 111 117 114 032 113 117 101 115 116 032 108
+Player Position: [2052,2051,7]
+Player Name: Sabrezin (ClassicTibinha)
+Player Action: 051 053 046 049 057 056 046 054 050 046 050 049 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 25D7F18 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sun Nov 17 10:30:09 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 18/12/2019 0:31:11 - Negokiller (201.57.79.154) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron 925 @ 2.3
+Video Card: Mobile Intel (R) 4 SER
+Last Packet Types: 109 109 109 109 109 109 109 109 109 109
+Last Packet: 109 025 008 059 008 008 002 025 008 060 008 008 000 000 000 000
+Player Position: [2080,2106,8]
+Player Name: Negokiller (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1B9ACF0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Tue Dec 17 23:30:40 2019
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/1/2020 14:36:14 - Master Zinho (191.253.126.59) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 109 132 180 131 106 108 140 160 160 140
+Last Packet: 109 001 008 135 008 012 003 001 008 134 008 012 000 000 000 000
+Player Position: [2049,2177,12]
+Player Name: Elder Trebor (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 907F28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 1682: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 0), reason:
+Graphics.cpp 1280: exception occurred (Surface = 1) (PictureNumber = 4), reason:
+Graphics.cpp 911: exception occurred (PictureNumber = 4) (Position = 4095), reason:
+surfaceDX9.cpp 1085: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 00000780)
+Sat Jan 25 12:04:17 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/1/2020 22:55:13 - Stilo Duub (179.176.124.123) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 132 132 132 132 132 132 132 132 133
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2044,2049,7]
+Player Name: Stilo Duub (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 25B7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 027BFF90)
+Sat Jan 25 21:54:47 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 27/1/2020 8:1:40 - Ekkera (191.253.126.59) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 132 132 131 140 132 133 133 133 133 170
+Last Packet: 132 238 000 003 001 009 192 008 000 032 069 088 073 084 032 032
+Player Position: [233,260,9]
+Player Name: Ekkera (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1E7F28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Mon Jan 27 06:51:04 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/1/2020 14:41:46 - Master Zinho (138.97.182.238) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 109 109 109 109 109 132 180 131
+Last Packet: 109 024 008 059 008 009 001 023 008 059 008 009 000 000 000 000
+Player Position: [2079,2107,8]
+Player Name: Master Zinho (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2711F38 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000EA44)
+Tue Jan 28 13:41:03 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 31/1/2020 22:9:20 - Meso (197.41.235.153) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in EGY
+Processor: Intel Core i5 -3317U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 178 180 131 110 162 141 130 161 160 120
+Last Packet: 180 019 032 000 083 112 101 099 116 097 116 111 114 032 091 056
+Player Name: Merci Prodigy (599 ED 2/50)
+Player Action: 049 052 050 046 052 052 046 049 052 051 046 050 049 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 27B7CB8 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 40872648), reason:
+ContentWindows.cpp 1290: exception occurred (Surface = 1) (Obj.Type = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 968: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 998: exception occurred, reason:
+Creatures.cpp 1121: assertion failed (GetPlayerID() = 272319043), reason:
+Player != NULL
+Sat Feb 01 01:59:38 2020
+Debug Assertion 8.60 Creatures.cpp 1121
+
+----- 1/2/2020 13:6:46 - Master Zinho (191.253.126.59) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 109 131 109 109 030 162 109 131 109 109
+Last Packet: 109 061 004 000 009 008 002 061 004 001 009 008 000 000 000 000
+Player Position: [1089,2302,8]
+Player Name: Elder Trebor (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 25A7F28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Sat Feb 01 11:56:01 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 2/2/2020 19:31:15 - Treborzin (191.253.126.59) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 132 180 131 106 108 140 160 160 140 134
+Last Packet: 134 110 100 000 064 000 140 030 000 000 016 088 160 134 016 242
+Player Position: [2039,2143,12]
+Player Name: Treborzin (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 947F28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 1682: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 712: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 1), reason:
+Graphics.cpp 1280: exception occurred (Surface = 1) (PictureNumber = 4), reason:
+Graphics.cpp 911: exception occurred (PictureNumber = 4) (Position = 4023), reason:
+surfaceDX9.cpp 1085: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 00000380)
+Sun Feb 02 18:19:54 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 9/2/2020 9:49:36 - Roben Hood (179.179.40.109) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 103 109 103 109 103 109 103 109 103
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [1843,1877,8]
+Player Name: Roben Hood (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2E7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 026EFF90)
+Sun Feb 09 08:49:28 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 9/2/2020 17:4:9 - Treborzin (191.253.126.59) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 131 140 160 140 132 180 131 106 108 140
+Last Packet: 140 050 138 000 064 100 131 007 008 109 008 012 013 000 000 000
+Player Position: [2054,2157,12]
+Player Name: Treborzin (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 23F7EE8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sun Feb 09 15:53:20 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 10/2/2020 7:57:24 - Elder Trebor (191.240.221.246) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 132 132 132 132 132 132 109 131 132 132
+Last Packet: 132 027 006 020 008 006 066 010 000 084 101 108 101 112 111 114
+Player Position: [1566,2068,6]
+Player Name: Elder Trebor (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 24C7EE8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Mon Feb 10 06:46:20 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 14:39:41 - Smark (187.127.4.19) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Intel Pentium P6000 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 161 132 180 131 106 108 140 140 160
+Last Packet: 109 254 007 013 008 008 001 255 007 013 008 008 000 000 000 000
+Player Position: [2052,2053,9]
+Player Name: Smark (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1FCBC40 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at B8020000)
+Tue Feb 11 13:38:43 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 20:5:12 - Spaart (187.127.4.19) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Intel Pentium P6000 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 131 134 161 160 133 132 180 131
+Last Packet: 161 010 000 010 000 010 000 010 000 010 000 019 024 010 000 134
+Player Position: [819,101,6]
+Player Name: Spaart (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1B4BC40 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 12060E47)
+Tue Feb 11 19:04:36 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 21:18:24 - Titan (177.8.33.159) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7300HQ @
+Video Card: Intel (R) HD GR
+Last Packet Types: 161 180 132 180 131 140 140 131 134 161
+Last Packet: 140 043 006 000 064 100 140 043 006 000 064 100 131 088 003 086
+Player Position: [855,87,6]
+Player Name: Titan (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 29080B0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Tue Feb 11 20:18:02 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 21:47:59 - Spaart (177.13.219.206) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Intel Pentium P6000 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 132 132 132 030 132 132 030 132 180
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [328,209,10]
+Player Name: Spaart (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BEBC40 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000FF00)
+Tue Feb 11 20:46:56 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 21:50:0 - Spaart (177.13.219.206) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Intel Pentium P6000 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 132 132 132 132 132 132 131 030 132
+Last Packet: 131 011 008 254 007 007 067 132 011 008 254 007 007 066 009 000
+Player Position: [2052,2051,7]
+Player Name: Spaart (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BEC360 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 01BFDF78)
+Tue Feb 11 20:49:04 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 22:2:45 - Spaart (177.13.219.206) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Intel Pentium P6000 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 103 109 030 132 104 109 104 109 103
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [341,204,9]
+Player Name: Spaart (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1B5BC40 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at F8F0F8F8)
+Tue Feb 11 21:01:37 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/2/2020 23:24:54 - Vinny Rush (45.71.193.241) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 133 133 133 133 132 132 132 132 132
+Last Packet: 132 253 007 006 008 007 186 003 000 086 073 080 000 000 000 000
+Player Position: [2045,2054,7]
+Player Name: Vinny Rush (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1EF7C28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 503), reason:
+MapWindow.cpp 1146: exception occurred (posx = 128) (posy = 384), reason:
+MapWindow.cpp 913: exception occurred (Obj = 9062), reason:
+MapWindow.cpp 1233: exception occurred (Debug: 11 Type: 9062 Coord: 2042/2061/7 PX: 1 PY: 1 PZ: 1 Ph: 1 DX: 0 DY: 0 W: 1 H: 1 L: 2 X: 1 Y: 1 L: 2 S: 22230), reason:
+MapWindow.cpp 1341: exception occurred (SpriteNumber = 22230), reason:
+Graphics.cpp 840: exception occurred (SpriteNumber = 22230) (Position = -1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 000056D6)
+Tue Feb 11 22:23:52 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 12/2/2020 22:38:17 - Stilo Duub (177.17.175.63) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 030 131 140 140 132 140 140 132
+Last Packet: 134 043 070 000 064 000 131 063 000 101 000 011 003 000 000 000
+Player Position: [63,101,11]
+Player Name: Stilo Duub (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 347F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 027EFF90)
+Wed Feb 12 21:37:57 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 13/2/2020 21:4:49 - Nowbreak (177.17.175.63) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 030 030 103 109 103 109 103 109 103
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [1843,1883,8]
+Player Name: Nowbreak (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27C7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000064)
+Thu Feb 13 20:04:20 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/2/2020 22:23:35 - Pallytree (191.240.221.246) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 132 133 106 108 132 180 131 140 160 160
+Last Packet: 132 164 004 233 003 009 186 003 000 086 073 080 000 000 000 000
+Player Position: [1188,1001,9]
+Player Name: Pallytree (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 22E7EE8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Fri Feb 14 21:12:33 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/2/2020 0:32:39 - Joinho (181.222.110.177) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -8550U @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 102 109 030 102 109 102 109 102 109 103
+Last Packet: 109 251 007 203 007 008 002 252 007 203 007 008 102 013 255 178
+Player Position: [2044,1995,8]
+Player Name: Joinho (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 9280D8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Sun Feb 16 00:31:14 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/2/2020 23:33:23 - Peixes (181.222.110.177) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -8550U @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 108 109 180 109 109 180 180 106 109 106
+Last Packet: 108 231 006 168 004 009 009 105 231 006 168 004 009 120 038 023
+Player Position: [1766,1191,9]
+Player Name: Peixes (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 108) (MainWindow = 38831328), reason:
+Communication.cpp 1902: exception occurred (rx = 9) (ry = 7), reason:
+Communication.cpp 1892: Object is not where it should be, reason:
+ hx: 9 hy: 7 hz: 2 Pos: 9
+ Cylinder (1):  (9848,0) (10519,0) (9712,0) (2886,5) (6082,0) (8910,0) (6083,0) (6083,0) (6081,0)
+ Cylinder (2):  (9848,0) (10519,0) (9712,0) (2886,5) (6081,0) (6083,0) (6083,0) (8910,0) (6082,0)(-)
+Sun Feb 16 23:18:54 2020
+Debug Assertion 8.60 Communication.cpp 1892
+
+----- 17/2/2020 20:3:48 - Elder Trebor (191.240.221.246) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: NVIDIA GeForce GTX 1050
+Last Packet Types: 030 131 132 131 030 102 109 102 109 162
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [1091,2302,8]
+Player Name: Elder Trebor (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: A67EE8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Mon Feb 17 19:52:37 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 19/2/2020 15:53:3 - Patolino (177.207.143.69) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -6200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 131 133 131 030 140 140 131 131 140
+Last Packet: 140 003 073 000 064 100 000 000 000 000 000 000 000 000 000 000
+Player Position: [66,105,11]
+Player Name: Patolino (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 25E80C8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at DC1AD88B)
+Wed Feb 19 15:52:32 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/2/2020 10:34:23 - Knight Poderoso (179.159.57.216) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: ATI Radeon HD AMD 6570
+Last Packet Types: 132 140 140 132 180 131 140 140 131 134
+Last Packet: 140 039 006 000 064 100 132 052 003 086 000 006 095 004 000 043
+Player Position: [819,87,6]
+Player Name: Knight Poderoso (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 837F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Thu Feb 20 10:33:15 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/2/2020 22:55:21 - Knight Poderoso (201.92.239.84) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: AMD Sempron 145
+Video Card: NVIDIA GeForce 8400GS
+Last Packet Types: 140 131 180 180 180 180 172 160 143 162
+Last Packet: 140 168 011 000 064 100 000 000 000 000 000 000 000 000 000 000
+Player Position: [2053,2044,7]
+Player Name: Knight Poderoso (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 24CAD60 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Thu Feb 20 22:50:59 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 22/2/2020 8:35:53 - Hellsing (45.179.111.114) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: STANDARD 
+Last Packet Types: 132 132 132 132 132 140 030 132 132 132
+Last Packet: 132 000 008 001 008 007 066 010 000 032 084 101 108 101 112 111
+Player Position: [2049,2051,7]
+Player Name: Hellsing (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 8C7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA4B4B1)
+Sat Feb 22 08:35:07 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/2/2020 17:21:54 - Balaka (177.4.232.168) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -2310 @ 2
+Video Card: NVIDIA GeForce GT 630
+Last Packet Types: 030 140 131 134 140 140 140 160 133 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [63,107,11]
+Player Name: Balaka (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2357F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Sat Feb 29 17:21:39 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/2/2020 18:51:4 - Nita (179.235.12.156) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: AMD Sempron 145
+Video Card: NVIDIA GeForce 7025 / NV
+Last Packet Types: 100 010 031 100 020 010 010 010 010 109
+Last Packet: 010 002 164 001 016 050 000 000 100 160 000 054 000 007 202 038
+Player Position: [160,54,7]
+Player Name: Kinazinha (Offline)
+Player Action: 049 056 055 046 049 056 049 046 053 053 046 049 056 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 40807808), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 160) (PlayerY = 54), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 11765) (OldType = 1723), reason:
+Objects.cpp 280: exception occurred (Type = 11765) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 11765) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sat Feb 29 18:47:38 2020
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 1/3/2020 9:57:19 - Nita (179.235.12.156) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: AMD Sempron 145
+Video Card: NVIDIA GeForce 7025 / NV
+Last Packet Types: 100 010 031 100 020 000 000 000 000 000
+Last Packet: 010 069 172 002 016 050 000 000 100 160 000 054 000 007 202 038
+Player Position: [160,54,7]
+Player Name: Kinazinha (Offline)
+Player Action: 049 056 055 046 049 056 049 046 053 053 046 049 056 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 39038336), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 160) (PlayerY = 54), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 11765) (OldType = 1723), reason:
+Objects.cpp 280: exception occurred (Type = 11765) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 11765) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sun Mar 01 09:09:49 2020
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 1/3/2020 18:28:39 - Monster Ink (186.250.173.90) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Intel Core i5 -4200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 015 010 023 031 100 040 020 011 000
+Last Packet: 023 003 000 000 016 050 000 003 015 021 013 128 003 169 252 003
+Player Name: Monster Ink (Tibia)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+Network.cpp 855: exception occurred, reason:
+Control.cpp 1522: exception occurred (Type = 100) (MainWindow = 038A9CE8), reason:
+Communication.cpp 2445: exception occurred (PlayerX = 32369) (PlayerY = 32241), reason:
+Communication.cpp 2423: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 2402: exception occurred (Type = 23720) (OldType = 409), reason:
+Objects.cpp 643: exception occurred (Type = 23720) (Flag = 10), reason:
+Objects.cpp 640: assertion failed (Type = 23720) (ObjectProperties->high() = 23687), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Sun Mar 01 18:21:54 2020
+Debug Assertion 10.94 Objects.cpp 640
+
+----- 13/3/2020 20:58:26 - Eternal Oblivion (189.120.76.36) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: MODESETTI
+Last Packet Types: 133 133 133 133 030 133 133 133 133 131
+Last Packet: 133 028 005 080 008 008 029 005 079 008 008 036 133 029 005 079
+Player Position: [1309,2128,8]
+Player Name: Eternal Oblivion (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: BF68B0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Fri Mar 13 20:57:46 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/3/2020 14:33:21 - Crawford (168.121.55.80) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -5200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 131 134 132 180 131 140 140 132
+Last Packet: 134 073 006 000 064 000 131 101 004 087 000 006 003 134 072 006
+Player Position: [1125,87,6]
+Player Name: Crawford (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 8F71E8 MoW: 8F79D8), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 18872AD3)
+Mon Mar 16 14:32:38 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 18/3/2020 1:58:4 - Lumpur (177.182.208.188) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 5 1
+Video Card: NVIDIA GeForce GTX 1060 6GB
+Last Packet Types: 132 132 109 132 132 162 141 130 161 160
+Last Packet: 132 055 000 127 000 010 192 007 000 069 088 073 084 032 032 032
+Player Position: [54,126,10]
+Player Name: Lumpur (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: A98190 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Wed Mar 18 01:57:44 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 22/3/2020 21:18:55 - Vaisefuder (201.42.85.32) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: AMD E1-6010 A
+Video Card: ADAPTADOR
+Last Packet Types: 160 133 132 180 131 140 140 180 131 180
+Last Packet: 140 150 235 001 064 041 140 150 235 001 064 041 131 029 002 146
+Player Position: [542,1427,8]
+Player Name: Ximbica (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BAC60 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+SurfaceDX.cpp 1050: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000006C)
+Sun Mar 22 20:44:18 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 22/3/2020 21:20:2 - Masterchef (201.42.85.32) -----
+
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: AMD E1-6010 A
+Video Card: ADAPTADOR
+Last Packet Types: 160 133 132 180 131 140 140 180 131 180
+Last Packet: 140 150 235 001 064 041 140 150 235 001 064 041 131 029 002 146
+Player Position: [542,1427,8]
+Player Name: Ximbica (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1BAC60 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+SurfaceDX.cpp 1050: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000006C)
+Sun Mar 22 20:44:18 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/3/2020 15:20:44 - Avestruz Que Seduz (167.250.175.253) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 32 Bit in BRA
+Processor: Intel Celeron E3300 @ 2
+Video Card: Intel (R) G41 E
+Last Packet Types: 107 109 030 160 131 132 180 160 160 134
+Last Packet: 107 251 007 008 008 008 002 170 016 000 000 000 000 000 000 000
+Player Position: [2044,2055,8]
+Player Name: Avestruz Que Seduz (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1A37F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Tue Mar 24 15:21:14 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/3/2020 21:57:58 - Elvaxfara (187.75.72.251) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -3470 @ 3
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 133 133 133 133 180 102 109 102 109
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2039,2057,7]
+Player Name: Elvaxfara (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28B7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Tue Mar 24 21:57:38 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/3/2020 15:8:21 - Peen Driver (177.25.179.189) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 107 107 107 107 107 180 180
+Last Packet: 107 002 008 002 008 007 002 099 000 232 000 000 016 002 107 002
+Player Position: [2042,2052,7]
+Player Name: Peen Driver (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Wed Mar 25 15:00:40 2020
+Debug Assertion 8.60 Network.cpp 921
+
+----- 25/3/2020 15:45:51 - Coloninha Vilus (200.153.226.19) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-4
+Video Card: NVIDIA GeForce GT 730
+Last Packet Types: 132 132 162 132 132 109 170 160 160 162
+Last Packet: 132 055 000 127 000 010 192 007 000 069 088 073 084 032 032 032
+Player Position: [54,126,10]
+Player Name: Coloninha Vilus (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27E1F38 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00FF0044)
+Wed Mar 25 15:43:57 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 26/3/2020 12:18:1 - Sakura (177.203.148.140) -----
+Comment: euf bout
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Pentium DUAL E218
+Video Card: STANDARD 
+Last Packet Types: 132 132 132 132 132 132 132 132 132 132
+Last Packet: 132 000 008 001 008 007 066 010 000 032 084 101 108 101 112 111
+Player Position: [2046,2051,7]
+Player Name: Rei Do Royal Paladi (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 25BC48 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Thu Mar 26 12:17:12 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 27/3/2020 14:34:34 - Solotov (167.250.148.104) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Dual Core Intel Pentium E5300 @ 2
+Video Card: Intel (R) G33/G
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 75 MaW: 2514EB8 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 75), reason:
+Network.cpp 830: exception occurred, reason:
+Network.cpp 211: assertion failed (CurrentServer = 779581303), reason:
+CurrentServer<NUMBEROFSERVER
+Fri Mar 27 14:31:14 2020
+Debug Assertion 8.60 Network.cpp 211
+
+----- 27/3/2020 23:37:6 - Ded Andree (168.121.55.80) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -5200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 132 132 132 140 131 132 132 109 102
+Last Packet: 131 056 000 126 000 010 036 000 000 000 000 000 000 000 000 000
+Player Position: [56,126,10]
+Player Name: Ded Andree (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 24E8170 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Fri Mar 27 23:36:28 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/3/2020 0:32:5 - Heltin Do Vilao (191.19.117.173) -----
+Comment: ghfghfgh
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD C-60 APU 
+Video Card: ATI Radeon HD AMD 6290 
+Last Packet Types: 132 107 109 109 132 030 109 109 109 109
+Last Packet: 132 251 006 166 004 010 186 003 000 086 073 080 000 000 000 000
+Player Position: [1787,1190,10]
+Player Name: Heltin Do Vilao (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28C7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000045)
+Sat Mar 28 00:32:15 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/3/2020 12:43:6 - Rei Do Royal Paladi (177.203.148.140) -----
+Comment: ElfBot NG
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Pentium DUAL E218
+Video Card: STANDARD 
+Last Packet Types: 108 108 108 108 132 108 108 030 210 210
+Last Packet: 108 226 006 166 004 007 002 108 225 006 166 004 007 001 000 000
+Player Position: [1769,1183,7]
+Player Name: Rei Do Royal Paladi (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1DBC348 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Mon Jan 01 02:52:11 2007
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/3/2020 13:1:55 - Skollz Star (179.209.44.30) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Dual Core Intel Pentium E5300 @ 2
+Video Card: NVIDIA GeForce GT 620
+Last Packet Types: 132 132 132 132 132 132 132 132 132 132
+Last Packet: 132 000 008 001 008 007 066 010 000 032 084 101 108 101 112 111
+Player Position: [2044,2054,7]
+Player Name: Skollz Star (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2857F28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Sat Mar 28 13:01:20 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/3/2020 17:24:20 - Alagoano (177.158.142.199) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 140 131 140 131 134 161 140 140 133 132
+Last Packet: 140 039 072 000 064 100 000 000 000 000 000 000 000 000 000 000
+Player Position: [63,85,11]
+Player Name: Alagoano (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: C96FA0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Sat Mar 28 17:24:00 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/3/2020 19:29:12 - Rei Do Royal Paladi (177.203.148.140) -----
+Comment: ElfBot NG
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Business Edition 32 Bit in BRA
+Processor: Intel Pentium DUAL E218
+Video Card: STANDARD 
+Last Packet Types: 030 107 030 132 180 131 140 160 160 140
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [400,1131,8]
+Player Name: Rei Do Royal Paladi (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1A2C348 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Sat Mar 28 19:28:38 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 28/3/2020 19:34:13 - Pamps Is Back (191.35.71.72) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Home Basic Edition 32 Bit in BRA
+Processor: Intel Celeron E3400 @ 2
+Video Card: Chrome VIA 9 HC 
+Last Packet Types: 133 133 133 133 104 109 131 104 109 104
+Last Packet: 133 255 007 004 008 007 000 008 003 008 007 036 133 000 008 003
+Player Position: [2044,2051,7]
+Player Name: Pamps Is Back (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 942: exception occurred (nChar = 13) (nFlags = 284), reason:
+Control.cpp 1119: exception occurred (Key = 13), reason:
+MainWindow.cpp 214: exception occurred (Key = 13), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000000)
+Sat Mar 28 19:33:15 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/3/2020 1:47:55 - Acelehe Ahaehe (191.13.7.51) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 109 109 109 109 109 170 160 160 162 133
+Last Packet: 109 219 007 040 008 006 003 219 007 041 008 006 103 052 017 031
+Player Position: [2011,2088,6]
+Player Name: Acelehe Ahaehe (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 109) (MainWindow = 40927064), reason:
+Communication.cpp 2151: exception occurred, reason:
+Communication.cpp 2142: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017] (6375, 0), reason:
+ sx: 8 sy: 6 sz: 1
+ Position: 3
+ zx: 8 zy: 7 zz: 1
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 2011 abs_sy: 2088 abs_sz: 6
+ abs_zx: 2011 abs_zy: 2089 abs_zz: 6
+ Start Cylinder (1):  (4399,0) (1855,0) (6375,0) (1100,0) (99,268436120)
+ Start Cylinder (2):  (4399,0) (99,268436120) (1100,0) (6375,0) (1855,0)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (4398,0) (6383,0)
+ Destination Cylinder (2):  (4398,0) (6383,0)(-)(-)(-)(-)(-)(-)(-)(-)
+Sun Mar 29 01:46:39 2020
+Debug Assertion 8.60 Communication.cpp 2142
+
+----- 29/3/2020 9:4:12 - Sarhs Ek (191.6.48.162) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8250U @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 180 180 106 180 180 180 181 104 109 170
+Last Packet: 180 025 030 000 085 115 105 110 103 032 111 110 101 032 111 102
+Player Position: [1196,1666,8]
+Player Name: Sarhs Ek (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+GUI.cpp 1033: exception occurred (i = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 61616169)
+Sun Mar 29 03:14:23 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/3/2020 10:31:15 - Liipeh Tankanada (177.96.52.82) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -3470 @ 3
+Video Card: Intel (R) HD GR
+Last Packet Types: 107 107 107 107 107 107 107 107 107 107
+Last Packet: 107 064 000 107 000 013 001 099 000 084 000 000 016 002 107 064
+Player Position: [64,106,13]
+Player Name: Liipeh Tankanada (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+GUI.cpp 1033: exception occurred (i = 2), reason:
+GUI.cpp 1093: exception occurred (elapsed = 101), reason:
+GUI.cpp 2090: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 656C6961)
+Sun Mar 29 05:35:19 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 30/3/2020 9:27:14 - Vinny Rush (45.71.193.242) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 132 140 131 134 140 131 134 132 180 131
+Last Packet: 134 095 006 000 064 000 131 087 003 087 000 006 003 140 095 006
+Player Position: [855,87,6]
+Player Name: Vinny Rush (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1CA1EF0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 0), reason:
+MapWindow.cpp 1146: exception occurred (posx = 160) (posy = 288), reason:
+MapWindow.cpp 913: exception occurred (Obj = 3687), reason:
+MapWindow.cpp 1233: exception occurred (Debug: 11 Type: 3687 Coord: 852/90/7 PX: 1 PY: 1 PZ: 1 Ph: 1 DX: 0 DY: 0 W: 2 H: 2 L: 1 X: 1 Y: 1 L: 1 S: 1614), reason:
+MapWindow.cpp 1341: exception occurred (SpriteNumber = 1614), reason:
+MapWindow.cpp 1392: exception occurred (SpriteNumber = 1614), reason:
+Graphics.cpp 979: exception occurred (Surface = 2) (SpriteNumber = 1614), reason:
+Graphics.cpp 840: exception occurred (SpriteNumber = 1614) (Position = -1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0000064E)
+Mon Mar 30 09:24:12 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 30/3/2020 15:11:5 - Heltin Do Vilao (191.19.117.173) -----
+Comment: wertews
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD C-60 APU 
+Video Card: ATI Radeon HD AMD 6290 
+Last Packet Types: 160 160 160 160 101 109 160 160 160 160
+Last Packet: 160 229 006 229 006 168 153 004 000 043 113 081 033 068 001 048
+Player Position: [1289,1026,8]
+Player Name: Heltin Do Vilao (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2707F00 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Mon Mar 30 15:10:24 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 31/3/2020 0:36:5 - Fuiryus (170.244.177.125) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-6
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 109 109 106 107 109 109 109 109
+Last Packet: 109 215 007 037 008 005 002 215 007 038 008 005 000 000 000 000
+Player Position: [2003,2089,6]
+Player Name: Fuiryus (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28F7EE0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Tue Mar 31 00:35:02 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 31/3/2020 2:10:30 - Kommander (177.131.117.79) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8400 @ 2
+Video Card: NVIDIA GeForce GTX 1060 6GB
+Last Packet Types: 178 110 110 110 162 141 130 161 160 120
+Last Packet: 180 019 033 000 083 112 101 099 116 097 116 111 114 032 091 049
+Player Position: [701,121,8]
+Player Name: Kommander (300)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 2867F48 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 41213104), reason:
+ContentWindows.cpp 1290: exception occurred (Surface = 1) (Obj.Type = 3364), reason:
+Graphics.cpp 1174: exception occurred (Debug: 7 Type: 3364 PX: 1 PY: 1 Ph: 1 W: 1 H: 1 L: 1 X: 1 Y: 1 L: 1 S: 44526), reason:
+Graphics.cpp 1005: assertion failed (SpriteNumber = 44526) (NumberOfSprites = 42822), reason:
+In(SpriteNumber,1,NumberOfSprites)
+Tue Mar 31 02:10:04 2020
+Debug Assertion 8.60 Graphics.cpp 1005
+
+----- 31/3/2020 2:11:0 - Admin (177.131.117.79) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8400 @ 2
+Video Card: NVIDIA GeForce GTX 1060 6GB
+Last Packet Types: 162 200 162 132 160 131 180 180 180 180
+Last Packet: 162 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2804,811,7]
+Player Name: Admin (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2798350 MoW: 287A8A0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogElements.cpp 986: exception occurred (Surface = 1), reason:
+Graphics.cpp 1235: exception occurred (Surface = 1) (OutfitType = 302), reason:
+NWin32Exception.cpp 75: win32 exception occurred, reason:
+integer divide by zero
+Tue Mar 31 02:10:45 2020
+Debug Assertion 8.60 NWin32Exception.cpp 75
+
+----- 31/3/2020 10:37:22 - Kommander (179.209.44.74) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7500 @ 3
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 108 109 131 131 108 170 160 162 131 180
+Last Packet: 108 228 006 167 004 009 009 105 228 006 167 004 009 120 038 222
+Player Position: [1764,1190,9]
+Player Name: Kommander (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 108) (MainWindow = 39612392), reason:
+Communication.cpp 1902: exception occurred (rx = 8) (ry = 7), reason:
+Communication.cpp 1892: Object is not where it should be, reason:
+ hx: 8 hy: 7 hz: 2 Pos: 9
+ Cylinder (1):  (9848,0) (4574,0) (2889,5) (6082,0) (6084,0) (6083,0) (6022,0) (6083,0) (6083,0)
+ Cylinder (2):  (9848,0) (4574,0) (2889,5) (6083,0) (6083,0) (6022,0) (6083,0) (6084,0) (6082,0)(-)
+Tue Mar 31 10:37:08 2020
+Debug Assertion 8.60 Communication.cpp 1892
+
+----- 31/3/2020 11:51:3 - Corona Of Dispair (170.244.178.5) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Atom D2500 @ 1
+Video Card: Intel (R) GRAPH
+Last Packet Types: 074 000 000 000 000 000 000 000 000 000
+Last Packet: 074 222 065 207 078 108 000 000 000 000 000 000 000 000 000 000
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 74) (MainWindow = 27771536), reason:
+Control.cpp 1239: unknown packet type during login (Type = 74)
+Tue Mar 31 11:50:25 2020
+Debug Assertion 8.60 Control.cpp 1239
+
+----- 31/3/2020 18:17:44 - Karibe (187.120.145.255) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Celeron N4100 @ 1
+Video Card: Intel (R) UHD G
+Last Packet Types: 109 109 131 131 132 132 132 132 132 132
+Last Packet: 109 251 007 001 008 006 001 251 007 002 008 006 000 000 000 000
+Player Position: [2048,2051,7]
+Player Name: Karibe (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 26E7F40 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 499), reason:
+MapWindow.cpp 1146: exception occurred (posx = -29) (posy = 96), reason:
+MapWindow.cpp 913: exception occurred (Obj = 9275), reason:
+MapWindow.cpp 1233: exception occurred (Debug: 11 Type: 9275 Coord: 2040/2049/7 PX: 1 PY: 1 PZ: 1 Ph: 1 DX: 0 DY: 0 W: 2 H: 2 L: 1 X: 1 Y: 1 L: 1 S: 28795), reason:
+MapWindow.cpp 1341: exception occurred (SpriteNumber = 28795), reason:
+MapWindow.cpp 1392: exception occurred (SpriteNumber = 28795), reason:
+Graphics.cpp 979: exception occurred (Surface = 4) (SpriteNumber = 28795), reason:
+Graphics.cpp 840: exception occurred (SpriteNumber = 28795) (Position = 2559), reason:
+surfaceDX9.cpp 1085: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 00000780)
+Tue Mar 31 18:08:57 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 1/4/2020 14:7:48 - Quebada (177.157.141.40) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Dual Core Intel Pentium E5700 @ 3
+Video Card: Intel (R) G41 E
+Last Packet Types: 020 031 020 031 131 134 131 134 160 133
+Last Packet: 020 026 000 089 111 117 032 097 114 101 032 097 108 114 101 097
+Player Position: [909,87,6]
+Player Name: Quebada (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 942: exception occurred (nChar = 13) (nFlags = 16412), reason:
+Control.cpp 1119: exception occurred (Key = 13), reason:
+MainWindow.cpp 214: exception occurred (Key = 13), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000000)
+Wed Apr 01 13:45:55 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 5/4/2020 8:37:45 - Rakuna Matata (45.71.193.241) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 108 160 160 131 140 109 109 108 030 160
+Last Packet: 108 092 002 246 001 008 001 000 000 000 000 000 000 000 000 000
+Player Position: [611,503,9]
+Player Name: Peen Driver (ClassicTibinha)
+Player Action: 051 052 046 057 053 046 049 056 049 046 050 050 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+GUI.cpp 1033: exception occurred (i = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 6565724E)
+Sat Apr 04 22:51:55 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 5/4/2020 9:2:21 - Bielzin Du Freefire (187.180.184.29) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 108 109 109 109 131 140 131 140
+Last Packet: 109 113 008 129 010 007 002 114 008 129 010 007 109 110 008 136
+Player Position: [2154,2693,6]
+Player Name: Bielzin Du Freefire (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2598070 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Sun Apr 05 09:01:46 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 5/4/2020 20:15:55 - Gosanno (186.212.72.14) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Dual Core AMD Athlon 64 X2 520
+Video Card: NVIDIA GeForce 8500 GT (
+Last Packet Types: 030 160 108 108 108 108 108 108 108 108
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [291,487,8]
+Player Name: Gosanno (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 26B7F00 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Sun Apr 05 20:14:51 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 7/4/2020 17:54:48 - Pega Eu (177.183.117.246) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -4500U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 130 132 132 132 132 132 132 132 132 132
+Last Packet: 130 208 215 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2053,2052,7]
+Player Name: Pega Eu (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2111F20 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 499), reason:
+MapWindow.cpp 1146: exception occurred (posx = 192) (posy = 128), reason:
+MapWindow.cpp 1049: exception occurred (i = 0) (Creatures[i]->OutfitType = 151), reason:
+MapWindow.cpp 1037: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at AE13100E)
+Tue Apr 07 17:53:27 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 10/4/2020 10:6:45 - Vinny Rush (45.71.193.241) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-3
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 106 109 107 109 109 109 109 107 107
+Last Packet: 109 003 001 242 002 007 001 002 001 242 002 007 106 247 000 237
+Player Position: [253,755,7]
+Player Name: Vinny Rush (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1CA1EF0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Fri Apr 10 10:06:27 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 12/4/2020 18:40:36 - Kthderkets (200.140.36.19) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: Intel Pentium G3240 @ 3
+Video Card: Intel (R) HD GR
+Last Packet Types: 133 132 180 131 140 140 131 134 131 134
+Last Packet: 140 119 007 000 064 100 140 119 007 000 064 100 131 160 003 086
+Player Position: [927,87,6]
+Player Name: Kthderkets (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27EBC80 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 1682: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 4), reason:
+GUI.cpp 87: exception occurred (skin = 190), reason:
+Graphics.cpp 1280: exception occurred (Surface = 1) (PictureNumber = 4), reason:
+surfaceDX9.cpp 1437: exception occurred, reason:
+surfaceDX9.cpp 1371: exception occurred, reason:
+surfaceDX9.cpp 1421: exception occurred, reason:
+surfaceDX9.cpp 426: exception occurred, reason:
+surfaceDX9.cpp 404: exception occurred (DebugProgress = 3) ((int) pBuffer = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 74513889)
+Sun Apr 12 18:39:29 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/4/2020 15:12:44 - Quebada (187.180.177.233) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Dual Core Intel Pentium E5700 @ 3
+Video Card: Intel (R) G41 E
+Last Packet Types: 132 180 131 106 140 160 160 140 134 131
+Last Packet: 134 164 141 000 064 000 140 085 000 000 016 093 160 096 004 181
+Player Position: [1174,946,9]
+Player Name: Quebada (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 942: exception occurred (nChar = 52) (nFlags = 16389), reason:
+Control.cpp 1119: exception occurred (Key = 52), reason:
+MainWindow.cpp 214: exception occurred (Key = 52), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000000)
+Fri Apr 10 05:50:24 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/4/2020 0:46:54 - Zyr Ptzy (177.44.28.159) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -6200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 131 134 140 132 140 132 131 140 140
+Last Packet: 131 063 000 101 000 011 004 000 000 000 000 000 000 000 000 000
+Player Position: [63,96,11]
+Player Name: Wachis (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2817F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Thu Apr 16 00:45:56 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 16/4/2020 20:56:46 - Pifafa (170.254.169.82) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Basic Edition 32 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: Intel (R) G41 E
+Last Packet Types: 100 010 180 031 100 020 108 163 180 106
+Last Packet: 180 019 032 000 083 112 101 099 116 097 116 111 114 032 091 053
+Player Name: Druid Pakitao (29743)
+Player Action: 053 052 046 051 057 046 050 056 046 052 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 28397432), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 32370) (PlayerY = 32221), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 11871) (OldType = 870), reason:
+Objects.cpp 280: exception occurred (Type = 11871) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 11871) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Thu Apr 16 20:55:03 2020
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 18/4/2020 22:32:41 - Sexy Machine (189.62.150.33) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 131 134 161 161 132 180 131 140
+Last Packet: 161 010 000 024 049 010 000 010 000 010 000 020 028 010 000 134
+Player Position: [981,87,6]
+Player Name: Sexy Machine (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2837EF0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Sat Apr 18 22:32:15 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/4/2020 19:50:2 - Asatrom (177.17.49.52) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8250U @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 010 031 100 020 010 010 131 180 107
+Last Packet: 010 181 008 000 016 050 000 000 100 049 004 118 003 005 163 017
+Player Name: Asatrom (NTO Advance)
+Player Action: 049 053 056 046 054 057 046 049 050 050 046 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 36471048), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 1073) (PlayerY = 886), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 10613), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = -2147483560), reason:
+Objects.cpp 604: exception occurred (Number = 1383), reason:
+Container.h 226: index out of range (original i: 1383, i: 1382, min: 1, d: 367)
+Mon Apr 20 19:41:32 2020
+Debug Assertion 8.60 Container.h 226
+
+----- 22/4/2020 1:56:36 - Imothep (170.233.51.56) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: Intel Celeron G1610 @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 030 107 109 109 109 107 109 107
+Last Packet: 109 005 008 014 008 007 001 004 008 014 008 007 000 000 000 000
+Player Position: [2044,2059,8]
+Player Name: Imothep (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 193BC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Wed Apr 22 01:53:13 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 22/4/2020 22:29:17 - Trem Balla (177.39.130.114) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Pentium B950 @ 2.
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 180 170 160 162 131 131 162 143 162
+Last Packet: 180 026 018 000 089 111 117 032 097 114 101 032 101 120 104 097
+Player Position: [1053,87,6]
+Player Name: Trem Balla (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2587B88 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Wed Apr 22 21:27:29 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 23/4/2020 20:30:6 - Trem Balla (177.39.130.114) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Pentium B950 @ 2.
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 160 132 180 131 140 140 131 134 140
+Last Packet: 140 113 007 000 064 100 140 113 007 000 064 100 131 106 003 086
+Player Position: [873,87,6]
+Player Name: Trem Balla (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2E7B88 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Thu Apr 23 19:27:57 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/4/2020 19:21:14 - Bobi Irmao (177.203.148.140) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 32 Bit in BRA
+Processor: AMD E1-2100 A
+Video Card: ATI Radeon HD AMD 8210
+Last Packet Types: 030 030 030 030 030 030 107 030 101 109
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [33264,32276,7]
+Player Name: GminhoL2 (World LEAOServer)
+Player Action: 050 053 046 049 052 049 046 050 052 049 046 051 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2DBC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+surfaceDX9.cpp 1596: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 00000000)
+Sat Apr 25 19:09:36 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 26/4/2020 10:28:21 - Meu Malvadao (191.253.29.48) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-9
+Video Card: NVIDIA GeForce GTX 1060 3GB
+Last Packet Types: 161 133 132 180 131 140 140 131 134 161
+Last Packet: 140 115 007 000 064 100 140 115 007 000 064 100 131 124 003 086
+Player Position: [891,87,6]
+Player Name: Meu Malvadao (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: EF7D10 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sun Apr 26 10:27:49 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 29/4/2020 20:12:54 - Tiofeel (177.107.52.165) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Pentium G620 @ 2.
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 010 180 031 100 020 000 000 000 000
+Last Packet: 180 019 033 000 083 112 101 099 116 097 116 111 114 032 091 049
+Player Position: [1338,1633,7]
+Player Name: Lord Kamikazy (319)
+Player Action: 049 057 056 046 053 048 046 049 057 055 046 054 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 40247088), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 1338) (PlayerY = 1633), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 231), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268873602), reason:
+Objects.cpp 604: exception occurred (Number = 637), reason:
+Container.h 226: index out of range (original i: 637, i: 636, min: 1, d: 367)
+Wed Apr 29 20:10:21 2020
+Debug Assertion 8.60 Container.h 226
+
+----- 3/5/2020 1:46:27 - Enemy Down (177.200.255.37) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Celeron J1800 @ 2
+Video Card: Intel (R) HD GR
+Last Packet Types: 131 134 131 134 161 161 180 133 132 180
+Last Packet: 161 010 000 010 000 010 000 010 000 011 000 010 015 010 000 134
+Player Position: [837,87,6]
+Player Name: Enemy Down (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2387BF8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Sun May 03 01:45:58 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 5/5/2020 13:11:23 - House (177.33.91.92) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-9
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 132 132 132 132 132 132 132 030 132 132
+Last Packet: 132 000 008 001 008 007 066 010 000 032 084 101 108 101 112 111
+Player Position: [2051,2051,7]
+Player Name: Techno (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2807F00 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Tue May 05 13:10:28 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 1/6/2020 4:47:12 - Gago Do Libidgel (177.203.148.140) -----
+Comment: elfbot
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: NVIDIA GeForce 8400 GS
+Last Packet Types: 107 107 107 107 131 132 131 140 107 107
+Last Packet: 140 007 000 000 016 100 131 206 005 105 008 007 013 132 206 005
+Player Position: [1486,2147,7]
+Player Name: Gago Do Libidgel (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 276BC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 40022696), reason:
+ContentWindows.cpp 1545: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogElements.cpp 1536: exception occurred (Surface = 1), reason:
+DialogElements.cpp 1244: exception occurred, reason:
+GUI.cpp 87: exception occurred (skin = 12), reason:
+Graphics.cpp 1280: exception occurred (Surface = 1) (PictureNumber = 4), reason:
+surfaceDX9.cpp 1437: exception occurred, reason:
+surfaceDX9.cpp 1371: exception occurred, reason:
+surfaceDX9.cpp 1421: exception occurred, reason:
+surfaceDX9.cpp 426: exception occurred, reason:
+surfaceDX9.cpp 404: exception occurred (DebugProgress = 3) ((int) pBuffer = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 70EB3889)
+Mon Jun 01 04:44:41 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 1/6/2020 4:48:28 - Gago Do Libidgel (177.203.148.140) -----
+Comment: elfbot
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: NVIDIA GeForce 8400 GS
+Last Packet Types: 107 107 107 107 107 107 131 132 131 140
+Last Packet: 107 206 005 105 008 007 001 099 000 007 000 000 016 001 107 206
+Player Position: [1486,2147,7]
+Player Name: Gago Do Libidgel (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 25D4CF8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+surfaceDX9.cpp 1596: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 70DA7D1A)
+Mon Jun 01 04:47:24 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 5/6/2020 23:53:36 - Gago Do Libidgel (200.103.41.58) -----
+Comment: elfbot
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: NVIDIA GeForce 8400 GS
+Last Packet Types: 030 133 133 133 133 132 132 132 132 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2046,2053,7]
+Player Name: Gago Do Libidgel (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 272BC38 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 503), reason:
+MapWindow.cpp 1146: exception occurred (posx = 512) (posy = 32), reason:
+MapWindow.cpp 913: exception occurred (Obj = 1723), reason:
+MapWindow.cpp 1233: exception occurred (Debug: 11 Type: 1723 Coord: 2055/2049/7 PX: 1 PY: 1 PZ: 1 Ph: 2 DX: 0 DY: 0 W: 1 H: 1 L: 1 X: 1 Y: 1 L: 1 S: 19328), reason:
+MapWindow.cpp 1341: exception occurred (SpriteNumber = 19328), reason:
+surfaceDX9.cpp 1437: exception occurred, reason:
+surfaceDX9.cpp 1371: exception occurred, reason:
+surfaceDX9.cpp 1421: exception occurred, reason:
+surfaceDX9.cpp 426: exception occurred, reason:
+surfaceDX9.cpp 404: exception occurred (DebugProgress = 3) ((int) pBuffer = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 729FCD1E)
+Fri Jun 05 23:52:16 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 8/6/2020 14:39:28 - Kataprima (200.103.41.58) -----
+Comment: elfbot
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: NVIDIA GeForce 8400 GS
+Last Packet Types: 030 162 144 030 132 030 162 143 132 030
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [284,437,8]
+Player Name: Kataprima (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: AFBC38 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+MapWindow.cpp 869: exception occurred (Surface = 1), reason:
+MapWindow.cpp 549: exception occurred (Obj = 727), reason:
+MapWindow.cpp 1146: exception occurred (posx = 224) (posy = 160), reason:
+MapWindow.cpp 1049: exception occurred (i = 0) (Creatures[i]->OutfitType = 140), reason:
+MapWindow.cpp 1028: exception occurred, reason:
+MapWindow.cpp 1290: exception occurred (posx = 224) (posy = 160), reason:
+MapWindow.cpp 1341: exception occurred (SpriteNumber = 1652), reason:
+Graphics.cpp 1029: exception occurred (Surface = 2) (SpriteNumber = 1652), reason:
+surfaceDX9.cpp 1437: exception occurred, reason:
+surfaceDX9.cpp 1371: exception occurred, reason:
+surfaceDX9.cpp 1421: exception occurred, reason:
+surfaceDX9.cpp 426: exception occurred, reason:
+surfaceDX9.cpp 404: exception occurred (DebugProgress = 3) ((int) pBuffer = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 73313889)
+Mon Jun 08 14:39:20 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 18/6/2020 10:50:11 - Coronel Green (138.255.77.19) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 170 160 131 131 162 162 143 143 131 180
+Last Packet: 143 006 000 000 016 022 005 143 006 000 000 016 220 005 162 192
+Player Position: [1084,2302,8]
+Player Name: Coronel Green (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 40 MaW: 2577450 MoW: 0), reason:
+Control.cpp 1693: exception occurred (Type = 40), reason:
+Dialogs.cpp 652: exception occurred, reason:
+Dialogs.cpp 4306: exception occurred, reason:
+Dialogs.cpp 4368: exception occurred (Number = 3), reason:
+Objects.cpp 280: exception occurred (Type = 23374) (Flag = 7), reason:
+Objects.cpp 277: assertion failed (Type = 23374) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Thu Jun 18 10:49:58 2020
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 24/6/2020 19:4:36 - Dunkmaster Mons (156.221.136.213) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in USA
+Processor: Intel Core 2 DUO E8400
+Video Card: Intel (R) G41 E
+Last Packet Types: 131 132 180 160 160 134 111 104 109 170
+Last Packet: 140 154 035 000 064 010 140 154 035 000 064 010 131 030 001 205
+Player Position: [287,462,8]
+Player Name: Dunkmaster Mons (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2F063B0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 0BFDF3C8)
+Thu Jun 25 00:04:19 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/6/2020 19:4:59 - Dunkmaster Mons (156.221.136.213) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in USA
+Processor: Intel Core 2 DUO E8400
+Video Card: Intel (R) G41 E
+Last Packet Types: 162 107 131 180 132 131 180 131 180 160
+Last Packet: 162 146 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [287,461,8]
+Player Name: Dunkmaster Mons (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2EA43F8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Thu Jun 25 00:04:45 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/6/2020 19:36:21 - Pretin Seduzente (164.163.60.3) -----
+Comment: ]
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Business Edition 64 Bit in BRA
+Processor: AMD Athlon II X2 270
+Video Card: ATI Radeon 3000 GRAP
+Last Packet Types: 123 122 162 107 107 109 107 107 107 107
+Last Packet: 107 227 007 004 008 007 001 099 000 146 001 000 016 003 162 080
+Player Position: [2018,2050,6]
+Player Name: Pretin Seduzente (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 59 MaW: 27EC040 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 150842104), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 3460: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogElements.cpp 4171: exception occurred (Surface = 1), reason:
+Graphics.cpp 1423: exception occurred (Surface = 1), reason:
+Graphics.cpp 1320: assertion failed (Alignment = 281), reason:
+Alignment==LEFT_ALIGN || Alignment==CENTER_ALIGN || Alignment==RIGHT_ALIGN [bug0000845]
+Wed Jun 24 19:36:01 2020
+Debug Assertion 8.60 Graphics.cpp 1320
+
+----- 24/6/2020 22:29:6 - Vinny Jogalevz (191.177.180.220) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -2400 @ 3
+Video Card: NVIDIA GeForce 210
+Last Packet Types: 132 131 107 146 146 106 104 109 030 132
+Last Packet: 106 233 000 004 001 009 001 098 000 199 002 000 016 100 000 130
+Player Position: [232,263,9]
+Player Name: Vinny Jogalevz (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 48D7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Wed Jun 24 22:28:47 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 24/6/2020 23:53:20 - Vixx (200.103.41.58) -----
+Comment: elfbot
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Core 2 DUO E7400
+Video Card: NVIDIA GeForce 8400 GS
+Last Packet Types: 109 109 109 109 160 109 109 109 109 109
+Last Packet: 109 242 007 013 008 009 001 242 007 012 008 009 000 000 000 000
+Player Position: [2040,2061,8]
+Player Name: Vixx (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 89BC78 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 39113600), reason:
+ContentWindows.cpp 695: exception occurred (Surface = 1), reason:
+surfaceDX9.cpp 1453: exception occurred, reason:
+surfaceDX9.cpp 1421: exception occurred, reason:
+surfaceDX9.cpp 426: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 6B80D318)
+Wed Jun 24 23:52:10 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/6/2020 1:54:36 - Loteandojota (189.26.185.149) -----
+Comment: 
+Graphic Engine: DirectX5 (0)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Pentium GOLD G542
+Video Card: Intel (R) UHD G
+Last Packet Types: 030 131 132 180 160 160 134 170 131 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [278,464,8]
+Player Name: Loteandojota (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 1F7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 80100044)
+Thu Jun 25 01:54:08 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/6/2020 6:26:57 - Royal Skin (179.179.60.223) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel Celeron B800 @ 1.
+Video Card: Intel (R) HD GR
+Last Packet Types: 030 131 133 131 134 131 134 133 132 180
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [981,87,6]
+Player Name: Royal Skin (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2517F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Thu Jun 25 06:26:03 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 25/6/2020 18:22:53 - Lkoww (45.185.32.35) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core 2 4400 @ 2.
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 131 134 161 132 131 134 161 109 161 133
+Last Packet: 161 010 030 010 000 010 000 010 000 048 048 017 075 010 000 134
+Player Position: [63,112,11]
+Player Name: Lkoww (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2711F28 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Thu Jun 25 18:21:42 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 15/8/2020 23:6:0 - Knight (45.6.12.165) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Dual Core AMD Athlon 64 X2 600
+Video Card: MICROSOFT
+Last Packet Types: 132 132 132 132 132 132 132 132 132 132
+Last Packet: 132 000 008 001 008 007 066 010 000 032 084 101 108 101 112 111
+Player Position: [2049,2051,7]
+Player Name: Knight (ClassicTibinha)
+Player Action: 051 053 046 049 057 057 046 056 056 046 049 050 050 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2667F20 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sat Aug 15 23:00:41 2020
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/8/2020 14:10:26 - Frajola (177.52.176.25) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3 5
+Video Card: ADAPTADOR
+Last Packet Types: 000 131 180 162 141 130 161 160 121 120
+Last Packet: 010 214 037 000 016 050 000 000 100 156 000 053 000 007 087 002
+Player Position: [156,53,7]
+Player Name: Account Manager (Sodoma)
+Player Action: 050 053 046 049 048 046 050 055 046 054 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 0) (MainWindow = 34873112), reason:
+Control.cpp 1325: unknown packet type during game (Type = 0)
+Thu Aug 20 13:45:08 2020
+Debug Assertion 8.60 Control.cpp 1325
+
+----- 21/4/2023 12:40:30 - Nock Nyan (201.131.87.95) -----
+Debug Assertion 8.60 Objects.cpp 277
+Fri Apr 21 12:39:56 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Pentium G620 @ 2.
+Video Card: Intel (R) HD GR
+Last Packet Types: 103 109 103 109 103 109 131 170 131 170
+Last Packet: 109 201 003 195 003 007 002 201 003 196 003 007 103 152 001 000
+Player Position: [969,964,7]
+Player Name: Sadan Rulez (StyllerLux)
+Player Action: 049 052 050 046 052 046 049 057 053 046 049 050 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 103) (MainWindow = 41583456), reason:
+Communication.cpp 1720: exception occurred, reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 13), reason:
+Communication.cpp 1638: exception occurred (Type = 12141) (OldType = 408), reason:
+Objects.cpp 280: exception occurred (Type = 12141) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 12141) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Comment: 
+
+----- 22/4/2023 12:20:42 - Nock Nyan (167.249.188.22) -----
+Debug Assertion 8.60 Container.h 226
+Sat Apr 22 12:20:15 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -9300H @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 100 010 031 100 020 010 010 000 000 000
+Last Packet: 010 016 000 000 016 050 000 000 100 201 003 193 003 007 173 001
+Player Name: Luana Santos (StyllerLux)
+Player Action: 049 052 050 046 052 046 049 057 053 046 049 050 054 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 41123672), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 969) (PlayerY = 961), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 429), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268435471), reason:
+Objects.cpp 604: exception occurred (Number = 372), reason:
+Container.h 226: index out of range (original i: 372, i: 371, min: 1, d: 367)
+Comment: 
+
+----- 22/4/2023 20:56:54 - Rules (168.195.99.249) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Sat Apr 22 20:56:23 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-2
+Video Card: Intel (R) HD GR
+Last Packet Types: 109 109 030 109 109 109 132 109 109 030
+Last Packet: 109 225 007 005 008 007 001 225 007 006 008 007 000 000 000 000
+Player Position: [2022,2051,6]
+Player Name: Harold (ClassicTibinha)
+Player Action: 052 046 050 050 056 046 054 054 046 049 057 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 967F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Comment: 
+
+----- 24/4/2023 11:8:46 - Eternal Flames (168.90.30.228) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Mon Apr 24 11:08:21 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8400 @ 2
+Video Card: NVIDIA GeForce GTX 1060 3GB
+Last Packet Types: 132 132 132 030 132 104 109 104 109 101
+Last Packet: 132 054 013 242 002 011 180 006 000 032 073 116 101 110 115 000
+Player Position: [3376,754,11]
+Player Name: Eternal Flamess (ClassicTibinha)
+Player Action: 052 046 050 050 056 046 054 054 046 049 057 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2818140 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Comment: 
+
+----- 1/5/2023 9:49:17 - Byte Flix (191.240.217.165) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Mon May 01 03:08:10 2023
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -7700HQ @
+Video Card: Intel (R) HD GR
+Last Packet Types: 031 020 031 180 163 180 107 109 107 180
+Last Packet: 031 206 060 000 000 241 000 000 000 000 000 000 000 000 000 000
+Player Position: [1198,951,9]
+Player Name: Byte Flix (ClassicTibinha)
+Player Action: 052 046 050 050 056 046 054 054 046 049 057 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 508: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1437: exception occurred, reason:
+GUI.cpp 1033: exception occurred (i = 0), reason:
+GUI.cpp 1093: exception occurred (elapsed = 142), reason:
+GUI.cpp 2090: exception occurred, reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 2E5A149D)
+Comment: 
+
+----- 4/5/2023 15:28:0 - Byte Flix (177.130.236.225) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Thu May 04 15:27:41 2023
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -7700HQ @
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 133 132 180 131 140 140 131 134 131 134
+Last Packet: 134 106 007 000 064 000 131 051 003 087 000 006 004 140 106 007
+Player Position: [819,87,6]
+Player Name: Byte Flix (ClassicTibinha)
+Player Action: 052 053 046 050 050 057 046 050 050 046 049 053 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27B81D0 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000044)
+Comment: 
+
+----- 6/5/2023 14:10:59 - Legendyer (168.90.30.228) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Sat May 06 14:10:32 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8400 @ 2
+Video Card: NVIDIA GeForce GTX 1060 3GB
+Last Packet Types: 030 132 132 132 132 132 132 132 132 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2046,2053,7]
+Player Name: Legendyer (ClassicTibinha)
+Player Action: 052 053 046 050 050 057 046 050 050 046 049 053 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2728140 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Comment: 
+
+----- 6/5/2023 14:20:20 - Mysterio Alado (168.90.30.228) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Sat May 06 14:10:32 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8400 @ 2
+Video Card: NVIDIA GeForce GTX 1060 3GB
+Last Packet Types: 030 132 132 132 132 132 132 132 132 132
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [2046,2053,7]
+Player Name: Legendyer (ClassicTibinha)
+Player Action: 052 053 046 050 050 057 046 050 050 046 049 053 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2728140 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Comment: 
+
+----- 6/5/2023 19:11:19 - Goodness (168.90.30.228) -----
+Debug Assertion 8.60 Network.cpp 921
+Sat May 06 19:10:22 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -8400 @ 2
+Video Card: NVIDIA GeForce GTX 1060 3GB
+Last Packet Types: 109 109 108 106 106 170 105 108 106 106
+Last Packet: 170 000 000 000 000 008 000 071 111 111 100 110 101 115 115 000
+Player Position: [167,181,8]
+Player Name: Goodness (ClassicTibinha)
+Player Action: 052 053 046 050 050 057 046 050 050 046 049 053 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Network.cpp 921: assertion failed (BufferSize = 0) (NextToWrite = 16394), reason:
+BufferSize>0
+Comment: 
+
+----- 7/5/2023 21:16:44 - Leozinn (187.101.110.106) -----
+Debug Assertion 8.60 NWin32Exception.cpp 50
+Sun May 07 21:16:28 2023
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 5 4
+Video Card: NVIDIA GeForce GTX 1650
+Last Packet Types: 132 132 132 132 132 132 101 109 030 102
+Last Packet: 132 000 008 001 008 007 066 010 000 032 084 101 108 101 112 111
+Player Position: [2045,2052,7]
+Player Name: Leozinn (ClassicTibinha)
+Player Action: 052 053 046 050 050 057 046 050 050 046 049 053 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 28C7F18 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Comment: 
+

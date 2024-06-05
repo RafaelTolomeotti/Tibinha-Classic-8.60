@@ -1,0 +1,42 @@
+[21 June 2020 00:17:25 ] >> [DBCLEANUP] 1311 inactive players and 401 empty accounts have been deleted from the database.
+[!] --> Dropped: 0 from `player_viplist` table
+[!] --> Dropped: 26353 from `player_storage` table
+[!] --> Dropped: 0 from `player_spells` table
+[!] --> Dropped: 9177 from `player_skills` table
+[!] --> Dropped: 0 from `player_namelocks` table
+[!] --> Dropped: 26568 from `player_items` table
+[!] --> Dropped: 6226 from `player_depotitems` table
+[!] --> Dropped: 0 from `houses` table
+[!] --> Dropped: 0 from `house_auctions` table
+[!] --> Dropped: 1311 from `players` table
+[!] --> Dropped: 401 from `accounts` table
+[!] --> Dropped: 0 from `account_viplist` table
+
+[21 June 2020 00:25:17 ] >> [DBCLEANUP] 459 inactive players and 109 empty accounts have been deleted from the database.
+[!] --> Dropped: 0 from `player_viplist` table
+[!] --> Dropped: 19208 from `player_storage` table
+[!] --> Dropped: 0 from `player_spells` table
+[!] --> Dropped: 3213 from `player_skills` table
+[!] --> Dropped: 0 from `player_namelocks` table
+[!] --> Dropped: 14816 from `player_items` table
+[!] --> Dropped: 11500 from `player_depotitems` table
+[!] --> Dropped: 13 from `houses` table
+[!] --> Dropped: 0 from `house_auctions` table
+[!] --> Dropped: 459 from `players` table
+[!] --> Dropped: 109 from `accounts` table
+[!] --> Dropped: 0 from `account_viplist` table
+
+[02 May 2023 12:28:32 ] >> [DBCLEANUP] 101 inactive players and 30 empty accounts have been deleted from the database.
+[!] --> Dropped: 0 from `player_viplist` table
+[!] --> Dropped: 2242 from `player_storage` table
+[!] --> Dropped: 0 from `player_spells` table
+[!] --> Dropped: 707 from `player_skills` table
+[!] --> Dropped: 0 from `player_namelocks` table
+[!] --> Dropped: 2179 from `player_items` table
+[!] --> Dropped: 667 from `player_depotitems` table
+[!] --> Dropped: 0 from `houses` table
+[!] --> Dropped: 0 from `house_auctions` table
+[!] --> Dropped: 101 from `players` table
+[!] --> Dropped: 30 from `accounts` table
+[!] --> Dropped: 0 from `account_viplist` table
+
